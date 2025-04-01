@@ -1,13 +1,61 @@
 #EXTM3U
 
-# Filme 1 - A Bruxa de Blair (1999)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1.jpg" group-title="Terror", A Bruxa de Blair
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1.jpg" group-title="Terror", A Bruxa de Blair (1999)
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO1
 
-# Filme 2 - Atividade Paranormal (2007)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2.jpg" group-title="Terror", Atividade Paranormal
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2.jpg" group-title="Terror", O Chamado (2002)
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO2
 
-# Filme 3 - O Chamado (2002)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3.jpg" group-title="Terror", O Chamado
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3.jpg" group-title="Terror", Atividade Paranormal (2007)
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO3
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4.jpg" group-title="Terror", Jogos Mortais (2004)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5.jpg" group-title="Terror", Invocação do Mal (2013)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO5
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6.jpg" group-title="Terror", Hereditário (2018)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO6
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7.jpg" group-title="Terror", Halloween (1978)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO7
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8.jpg" group-title="Terror", O Exorcista (1973)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9.jpg" group-title="Terror", Sexta-Feira 13 (1980)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO9
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/10.jpg" group-title="Terror", A Morte do Demônio (2013)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO10
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/11.jpg" group-title="Terror", O Massacre da Serra Elétrica (1974)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO11
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/12.jpg" group-title="Terror", A Hora do Pesadelo (1984)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO12
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/13.jpg" group-title="Terror", REC (2007)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO13
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/14.jpg" group-title="Terror", It: A Coisa (2017)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO14
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/15.jpg" group-title="Terror", O Iluminado (1980)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO15
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/16.jpg" group-title="Terror", Arraste-me para o Inferno (2009)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO16
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/17.jpg" group-title="Terror", O Babadook (2014)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO17
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/18.jpg" group-title="Terror", Um Lugar Silencioso (2018)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO18
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/19.jpg" group-title="Terror", O Chamado do Mal (2017)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO19
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/20.jpg" group-title="Terror", Nós (2019)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO20
