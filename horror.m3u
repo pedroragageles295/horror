@@ -1,0 +1,13 @@
+#EXTM3U
+
+# Filme 1 - A Bruxa de Blair (1999)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1.jpg" group-title="Terror", A Bruxa de Blair
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO1
+
+# Filme 2 - Atividade Paranormal (2007)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2.jpg" group-title="Terror", Atividade Paranormal
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO2
+
+# Filme 3 - O Chamado (2002)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3.jpg" group-title="Terror", O Chamado
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO3
